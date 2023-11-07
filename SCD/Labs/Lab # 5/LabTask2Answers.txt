@@ -1,0 +1,27 @@
+(a) 
+50
+10
+Enter the try block
+Exception: Lower Limit Exception.
+After the catch block.
+
+(b)
+50
+0
+Enter the try block
+Exception: / by zero
+After the catch block.
+
+(c)
+150
+10
+Enter the try block
+Existing the try block.
+After the catch block.
+
+(d)
+150
+0
+Enter the try block
+Exception: / by zero
+After the catch block.
